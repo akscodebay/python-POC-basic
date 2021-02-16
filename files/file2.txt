@@ -1,0 +1,3 @@
+Next Line.
+This is the third Line. This is the second sentence. This is the first sentence of file.
+Opening Line.
